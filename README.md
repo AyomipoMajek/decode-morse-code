@@ -23,7 +23,7 @@
 
 # 📖 Decode Morse <a name="about-project"></a>
 
-> Decode Morse is a project in Ruby that decodes morse message.
+> Decode Morse is a project in Ruby that decodes morse messages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,9 +39,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+<!-- > Describe between 1-3 key features of the application. -->
 
-- **Decode Morse message**
+- **Decode Morse messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+<!-- > Add a link to your deployed project. -->
 
 - N/A
 
@@ -59,7 +59,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Clone the repository by clicking on the 'Code' button and copy the link
+<!-- > Clone the repository by clicking on the 'Code' button and copy the link -->
 
 To get a local copy up and running, follow these steps.
 
@@ -77,12 +77,12 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:kensteph/decode-morse-message.git
+  git clone https://github.com/AyomipoMajek/decode-morse-code.git
 ```
 
 ### Install
 
-To install postgreSQL go to : [Instal Ruby](https://rubyinstaller.org/) and select your operating system.
+To install ruby go to : [Install Ruby](https://rubyinstaller.org/) and select your operating system.
 
 
 ### Usage
@@ -101,17 +101,16 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Javivy**
+👤 **Ayomipo Majek**
 
-- GitHub: [@Javivy](https://github.com/Javivy)
-- LinkedIn: [Javier Vargas](https://www.linkedin.com/in/javier-alejandro-vargas-ortega-5998a5212/)
-- Twitter [@Javivy_2803](https://twitter.com/Javivy_2803)
+- GitHub: [@AyomipoMajek](https://github.com/AyomipoMajek)
+- Linkedin: [@AyomipoMajek](https://www.linkedin.com/in/ayomipomajek/)
 
-👤 **Kender Romain**
+👤 **Gueleu S. Farida**
 
-- GitHub: [@Kensteph](https://github.com/kensteph)
-- Twitter: [@RomainKender](https://twitter.com/RomainKender)
-- LinkedIn: [kender-romain8788](https://www.linkedin.com/in/kender-romain8788/)
+- GitHub: [@SFarida](https://github.com/SFarida)
+- Twitter: [@First_Dialo](https://twitter.com/First_Dialo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/farida-gueleu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +118,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+<!-- > Describe 1 - 3 features you will add to the project. -->
 
 - [ ] **Store the decoded message**
 
@@ -131,7 +130,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AyomipoMajek/decode-morse-code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
